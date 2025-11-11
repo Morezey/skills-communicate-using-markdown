@@ -14,3 +14,7 @@ Adding code
 ~~~python
 print("Hello, World!")
 ~~~
+~~~python
+def greeting(name):      #this is basic use of a function
+  print("Hello " + name)
+~~~

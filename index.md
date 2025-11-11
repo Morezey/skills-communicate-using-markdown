@@ -6,3 +6,6 @@
 ###### This is the last header
 
 This is a basick md task learning about the various headers
+
+Adding an image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

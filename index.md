@@ -18,3 +18,8 @@ print("Hello, World!")
 def greeting(name):      #this is basic use of a function
   print("Hello " + name)
 ~~~
+
+``` javascript
+var myVar = "Hello, world!";
+```
+

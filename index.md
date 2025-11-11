@@ -23,3 +23,8 @@ def greeting(name):      #this is basic use of a function
 var myVar = "Hello, world!";
 ```
 
+Adding a task list in the md files
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+

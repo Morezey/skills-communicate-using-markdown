@@ -9,3 +9,8 @@ This is a basick md task learning about the various headers
 
 Adding an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Adding code 
+~~~python
+print("Hello, World!")
+~~~
